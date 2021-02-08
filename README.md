@@ -23,7 +23,7 @@ Das Copyright der Grafiken und Inhalte liegt bei [AlleAktien Quantitativ](https:
 
 ### Demo
 
-Auf (finanzsecura.de)[https://finanzsecura.de/investieren/monatliche-dividenden-durch-aktien.html] haben wir einige AlleAktien Quantitativ Charts als Demo eingebunden.
+Auf [finanzsecura.de](https://finanzsecura.de/investieren/monatliche-dividenden-durch-aktien.html) haben wir einige AlleAktien Quantitativ Charts als Demo eingebunden.
 
 ### Verfügbare Parameter
 
