@@ -59,7 +59,7 @@ class AlleAktienQuantitativInsertTagListener
   scrolling='no'
   width='800'
   height='400'
-  src='https://www.alleaktien.de/quantitativ/chart-api/$isin/$chart'></iframe>";
+  src='https://www.alleaktien.de/quantitativ/chart-api/$isin/$chart'></iframe>
 HTML;
 
 	    return "<div class='aaq-plugin' style='width:inherit;margin:auto'>" . $html . "</div>";
