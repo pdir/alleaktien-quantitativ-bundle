@@ -69,7 +69,7 @@ Inspiriert von (AlleAktien Quantitativ Wordpress Plugin)[https://wordpress.org/p
 
 #### mit Composer
 
-    composer require pdir/contao-alle-aktien-quantitativ-bundle
+    composer require pdir/contao-alleaktien-quantitativ-bundle
 
 ### Nutzung
 

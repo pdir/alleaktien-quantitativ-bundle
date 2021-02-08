@@ -3,4 +3,7 @@ imports:
 
 services:
     PhpCsFixer\Fixer\Comment\HeaderCommentFixer:
-        header: "This file is part of [package name].\n\n(c) Mathias Arzberger\n\n@license LGPL-3.0-or-later"
+        header: "This file is part of [package name].\n\n(c) pdir GmbH / pdir digital agentur\n\n@license LGPL-3.0-or-later"
+
+
+AlleAktien Quantitativ bundle for Contao Open Source CMS\n\nCopyright (c) 2021 pdir / digital agentur // pdir GmbH\n\n\n@package contao-alleaktien-quantitativ-bundle\n@link https://pdir.de/docs/de/contao/extensions/alleaktien-quantitativ/\n@license LGPL-3.0-or-later\n@author Mathias Arzberger <develop@pdir.de>\n\nFor the full copyright and license information, please view the LICENSE\nfile that was distributed with this source code.

@@ -16,17 +16,10 @@ declare(strict_types=1);
  * file that was distributed with this source code.
  */
 
-namespace Pdir\AlleAktienQuantitativBundle\Tests;
+namespace Pdir\AlleAktienQuantitativBundle;
 
-use Pdir\AlleAktienQuantitativBundle\PdirAlleAktienQuantitativBundle;
-use PHPUnit\Framework\TestCase;
+use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class PdirAlleAktienQuantitativBundleTest extends TestCase
+class PdirAlleAktienQuantitativBundle extends Bundle
 {
-    public function testCanBeInstantiated(): void
-    {
-        $bundle = new PdirAlleAktienQuantitativBundle();
-
-        $this->assertInstanceOf('Pdir\AlleAktienQuantitativBundle\PdirAlleAktienQuantitativBundle', $bundle);
-    }
 }

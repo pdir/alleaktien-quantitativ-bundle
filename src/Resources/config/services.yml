@@ -1,3 +1,6 @@
 services:
     _defaults:
         autoconfigure: true
+
+    Pdir\AlleAktienQuantitativBundle\EventListener\AlleAktienQuantitativInsertTagListener:
+        public: true

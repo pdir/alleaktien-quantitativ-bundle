@@ -1,5 +1,5 @@
 {
-    "name": "pdir/contao-alle-aktien-quantitativ-bundle",
+    "name": "pdir/contao-alleaktien-quantitativ-bundle",
     "type": "contao-bundle",
     "description": "AlleAktien Quantitativ Contao bundle",
     "homepage": "https://alleaktien.de/quantitativ/",
@@ -45,8 +45,8 @@
         }
     },
     "support": {
-        "issues": "https://github.com/pdir/contao-alle-aktien-quantitativ-bundle/issues",
-        "source": "https://github.com/pdir/contao-alle-aktien-quantitativ-bundle"
+        "issues": "https://github.com/pdir/contao-alleaktien-quantitativ-bundle/issues",
+        "source": "https://github.com/pdir/contao-alleaktien-quantitativ-bundle"
     },
     "scripts": {
         "cs-fixer": [
