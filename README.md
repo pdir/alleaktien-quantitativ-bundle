@@ -5,6 +5,8 @@
 Mit einem Shortcode kannst du einzelne Grafiken von [AlleAktien Quantitativ](https://www.alleaktien.de/quantitativ) kostenlos einbetten, um langfristige, stets aktuelle, und vor allem interaktive fundamentale Aktienkennzahlen anzuzeigen. Mit nur einem einzigen Shortcode. Die Installation dauert weniger als 10 Sekunden.
 Das Copyright der Grafiken und Inhalte liegt bei [AlleAktien Quantitativ](https://www.alleaktien.de/quantitativ).
 
+Inoffizielle Community Erweiterung entwickelt von [pdir.de](https://pdir.de).
+
 ## AlleAktien Quantitativ
 
 * Immer aktuelle und verlässliche Kennzahlen direkt von AlleAktien
@@ -44,9 +46,7 @@ Aufbau des Tags: {{aaq::isin::chart}}
 * **DividendYieldChart**: Dividendenrendite
 * **PayoutRatioChart**: Ausschüttungsquote (Dividenden / Gewinn pro Aktie)
 * **SharesOutstandingChart**: Anzahl ausstehender Aktien
-* **ValuationChart**: KGV, KUV, und EBIT-Multiple´
-
-
+* **ValuationChart**: KGV, KUV, und EBIT-Multiple
 
 ### Screenshots
 
