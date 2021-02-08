@@ -64,7 +64,7 @@ Inspiriert von [AlleAktien Quantitativ Wordpress Plugin](https://wordpress.org/p
 
 * Contao Manager aufrufen und anmelden  
 * Pakete installieren auswählen  
-* im Suchfeld “Social Feed” eingeben  
+* im Suchfeld “AlleAktien Quantitativ” eingeben  
 * auf Prüfen & Installieren klicken und Änderungen anwenden  
 
 
