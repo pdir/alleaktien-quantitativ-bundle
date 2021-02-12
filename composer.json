@@ -52,5 +52,12 @@
         "cs-fixer": [
             "vendor/bin/ecs check src/ tests/ --fix --ansi"
         ]
+    },
+    "suggest": {
+        "contao-themes-net/mate-theme-bundle": "MATE Theme",
+        "contao-themes-net/odd-theme-bundle": "ODD Theme",
+        "contao-themes-net/nature-theme-bundle": "NATURE Theme",
+        "contao-themes-net/zero-one-theme-bundle": "0.1 Theme",
+        "contao-themes-net/convert-theme-bundle": "CONVERT Theme"
     }
 }
